@@ -1,0 +1,2 @@
+SET name khanh
+SET age 20

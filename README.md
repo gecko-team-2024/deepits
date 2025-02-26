@@ -29,9 +29,7 @@
     ```sh
     ./deepits
 ### Contact me:
-    ```sh
     geckoteam2024@gmail.com
-    ```
 
 ### Testing
 To run tests:

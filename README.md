@@ -28,7 +28,9 @@
 2. Run the executable:
     ```sh
     ./deepits
-### Contact me: geckoteam2024@gmail.com
+### Contact me:
+    ```sh
+    geckoteam2024@gmail.com
     ```
 
 ### Testing

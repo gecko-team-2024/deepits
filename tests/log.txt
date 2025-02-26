@@ -1,2 +1,5 @@
 SET name khanh
 SET age 20
+SET key1 value1
+SET name khanh
+SET key1 value1

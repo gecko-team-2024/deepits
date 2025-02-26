@@ -35,8 +35,10 @@ func handleConnection(conn net.Conn, db *database.Database) {
 		if err != nil {
 			return
 		}
-
 		if cmd == "SET" {
+			db.Set(key, value, 0)
+		}
+		if cmd == "GET" {
 			db.Set(key, value, 0)
 		}
 	}

@@ -1,0 +1,9 @@
+SET name khanh
+DEL name
+SET name khanh
+SET age 20
+SET name khoa
+SET age 21
+SET age 21
+SET age 21
+DEL name

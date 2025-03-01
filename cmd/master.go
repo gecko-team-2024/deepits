@@ -7,5 +7,6 @@ import (
 
 func main() {
 	db := database.NewDatabase()
+	go server.StartHTTPServer(db)
 	server.StartServer(db)
 }

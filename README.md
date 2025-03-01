@@ -28,6 +28,12 @@
 2. Run the executable:
     ```sh
     ./deepits
+### Running web manager
+1. Open Google, Edge,...
+    ```sh
+        http://localhost:8080
+        You can change localhost and port
+    ```
 ### Contact me:
     geckoteam2024@gmail.com
 
